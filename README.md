@@ -1,6 +1,7 @@
 # Maintenance for Aircraft Engines Using Machine Learning
 
-"C:\Users\DAMILOLA\Downloads\R.jpeg"
+![R](https://github.com/Estimatorbeat/Predictive-MaintenanceforAircraftEngines/assets/154437491/ebecad1e-a88d-49dc-a2a1-25a7de18915e)
+
 
 ## Project Overview
 The "Maintenance of Aircraft Engiines using machine Learning"  project aims to develop an intelligent system capable of identifying Aircraft engine failure. By leveraging advanced analytics and machine learning techniques on aircraft data, to accurately predict the likelihood of a aircraft having engine failure, ensuring the safety, reliability, and efficiency of air travel.
